@@ -21,10 +21,10 @@ h1 {
 }
 
 .posicao_cards {
-    margin-top: 30px;
+    margin-top: 10px;
   }
   
-  .card {
+.card {
     padding: 15px;
     display: flex;
     justify-content: space-evenly;
@@ -33,11 +33,17 @@ h1 {
 .card1 {
     font-family: "Krona One", sans-serif;
     background-color: #0088ff;
-    width: 300px;
+    width: 370px;
     height: 150px;
     text-align: center;
     border-radius: 5px;
     font-size: 15px;
     padding: 15px;
+    text-decoration: none;
+}
+
+.botao_home {
+    text-align: center;
+    font-family: "Krona One", sans-serif;
     text-decoration: none;
 }
