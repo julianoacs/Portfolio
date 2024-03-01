@@ -1,3 +1,3 @@
 ## Portfólio
-#### Prévia
+#### Prévia - Em construção.
 [www.julianosilva.com](https://julianoacs.github.io/Portfolio/)
