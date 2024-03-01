@@ -65,3 +65,23 @@ h1 {
 .home:visited {
     color: #ffffff;
 }
+
+.card1:hover {
+    background-color: #0055ff;
+}
+
+.card1:visited {
+    color: #ffffff;
+}
+
+.descricao {
+    font-family: "Krona One", sans-serif;
+    font-size: 15px;
+    text-align: start;
+    margin-top: 10px;
+}
+.linguagem {
+    font-family: "Krona One", sans-serif;
+    font-size: 15px;
+    text-align: start;
+}
