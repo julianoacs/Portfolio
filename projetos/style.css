@@ -76,12 +76,13 @@ h1 {
 
 .descricao {
     font-family: "Krona One", sans-serif;
-    font-size: 15px;
+    font-size: 12px;
     text-align: start;
     margin-top: 10px;
 }
 .linguagem {
     font-family: "Krona One", sans-serif;
-    font-size: 15px;
+    font-size: 12px;
     text-align: start;
+    margin-top: 10px;
 }
