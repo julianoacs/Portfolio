@@ -79,3 +79,42 @@ body {
 strong {
     color: #0088ff;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: "Krona One", sans-serif;
+    font-size: 15px;
+    color: #0088ff;
+    background-color: #000000;
+    padding: 10px;
+}
+
+@media (max-width: 650px) {
+    .apresentacao {
+        flex-direction: column;
+    }
+
+    .apresentacao__img {
+        order: -1;
+        margin: 0 auto;
+        max-width: 200px;
+    }
+
+    .botao {
+        flex-direction: column;
+    }
+
+    .botao1 {
+        margin: 10px auto;
+    }
+}
+
+.apresentacao__img {
+    border-radius: 100%;
+    padding: 3px;
+    max-width: 100%;
+    height: auto;
+}

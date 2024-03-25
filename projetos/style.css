@@ -86,3 +86,19 @@ h1 {
     text-align: start;
     margin-top: 10px;
 }
+
+@media only screen and (max-width: 1225px) {
+    .card {
+        flex-direction: column;
+        margin: 10px auto;
+    }
+
+    .card1 {
+        margin-bottom: 20px;
+        margin: 0 auto 20px;
+    }
+
+    .home {
+        margin-bottom: 20px;
+    }
+}
