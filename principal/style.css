@@ -26,6 +26,7 @@ body {
     padding: 3px;
     width: 320px;
     height: 320px;
+    max-width: 100%;
 }
 
 .apresentacao__titulo {
@@ -51,6 +52,10 @@ body {
     font-size: 15px;
 }
 
+strong {
+    color: #0088ff;
+}
+
 .botao {
     margin: 8px;
     font-family: "Krona One", sans-serif;
@@ -74,10 +79,6 @@ body {
 
 .botao1:visited {
     color: #ffffff;
-}
-
-strong {
-    color: #0088ff;
 }
 
 footer {
